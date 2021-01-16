@@ -1,2 +1,3 @@
 # cassava-leaf-disease_pytorch
- 
+
+此仓库为Kaggle图像分类比赛Cassava Leaf Disease Classification的Baseline，pytorch版本
